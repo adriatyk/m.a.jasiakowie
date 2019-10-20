@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Witamy na naszej pierwszej stronie www ;-)
 
 You can use the [editor on GitHub](https://github.com/adriatyk/m.a.jasiakowie/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
